@@ -1,0 +1,32 @@
+.menu-slider .home {
+  margin: 35px 0 8px 0;
+  width: 27px;
+  height: 30px;
+}
+.menu-slider .container-3 {
+  margin: 31px 48px 4px 0;
+  width: 34px;
+  height: 38px;
+}
+.menu-slider .container {
+  margin-right: 53px;
+  width: 92px;
+  height: 73px;
+}
+.menu-slider .user {
+  margin: 34px 0 4px 0;
+  width: 41px;
+  height: 35px;
+}
+.menu-slider .container-2 {
+  display: flex;
+  flex-direction: row;
+  width: 268px;
+  box-sizing: border-box;
+}
+.menu-slider {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

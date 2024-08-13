@@ -1,0 +1,373 @@
+.light-on-color-blue .menu-slider {
+  position: absolute;
+  left: 50%;
+  top: 842px;
+  translate: -50% 0;
+  width: 430px;
+  height: 90px;
+}
+.light-on-color-blue .time-1 {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 1.294;
+  color: #000000;
+}
+.light-on-color-blue .time {
+  display: flex;
+  box-sizing: border-box;
+}
+.light-on-color-blue .cellular-connection {
+  margin: 0.5px 7.5px 0.2px 0;
+  width: 19.2px;
+  height: 12.2px;
+}
+.light-on-color-blue .wifi {
+  margin: 0.6px 7.2px 0px 0;
+  width: 17.1px;
+  height: 12.3px;
+}
+.light-on-color-blue .battery {
+  width: 27.3px;
+  height: 13px;
+}
+.light-on-color-blue .levels {
+  margin: 4.7px 0 4.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: 153.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.light-on-color-blue .status-bar-iphone {
+  background: #FFFFFF;
+  margin: 0 0 75.5px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19.3px 38.4px 13.7px 0;
+  width: calc(100% - 8px);
+  box-sizing: border-box;
+}
+.light-on-color-blue .living-room-light-is-off {
+  margin: 0 0 220.5px 42px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--m-3-titlelarge-font-family, 'Roboto');
+  font-weight: var(--m-3-titlelarge-font-weight, 400);
+  font-size: var(--m-3-titlelarge-font-size, 22px);
+  line-height: var(--m-3-titlelarge-line-height, 1.273);
+  color: #FFFFFF;
+}
+.light-on-color-blue .dot {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-1 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-1 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-2 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-2 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-3 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-3 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-4 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-4 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-5 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-5 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-6 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-6 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-7 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-7 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-8 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-8 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-9 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .dot-9 {
+  border-radius: 2px;
+  background: #9887C5;
+  width: 4px;
+  height: 4px;
+}
+.light-on-color-blue .track-dot-10 {
+  display: flex;
+  width: 4px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .discrete-dots {
+  position: absolute;
+  left: 4px;
+  bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 354px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .active-track {
+  border-radius: 16px 2px 2px 16px;
+  background: #D3C1FF;
+  position: relative;
+  margin: 14px 6px 14px 0;
+  width: 341px;
+  height: 16px;
+}
+.light-on-color-blue .state-layer {
+  border-radius: 4px;
+  background: var(--m-3-state-layerslighton-primaryopacity-012, rgba(27, 9, 66, 0.12));
+  position: absolute;
+  left: -62px;
+  bottom: 0px;
+  width: 2px;
+  height: 44px;
+}
+.light-on-color-blue .handle {
+  border-radius: 2px;
+  background: #D3C1FF;
+  position: relative;
+  width: 2px;
+  height: 44px;
+}
+.light-on-color-blue .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 349px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.light-on-color-blue .label-text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-labellarge-font-family, 'Roboto');
+  font-weight: var(--m-3-labellarge-font-weight, 500);
+  font-size: var(--m-3-labellarge-font-size, 14px);
+  letter-spacing: var(--m-3-labellarge-letter-spacing, 0.1px);
+  line-height: var(--m-3-labellarge-line-height, 1.429);
+  color: #2B292F;
+}
+.light-on-color-blue .value-indicator {
+  border-radius: 100px;
+  background: #E6E0E9;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  padding: 12px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .fan-value {
+  position: relative;
+  margin: 0 12px 52px 12px;
+  display: flex;
+  align-self: flex-end;
+  padding: 48px 23px 0 0;
+  width: 354px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .container-5 {
+  width: 156px;
+  height: 133.1px;
+}
+.light-on-color-blue .group-1 {
+  margin: 0 0 111.9px 12px;
+  display: flex;
+  width: 390px;
+  height: 597.1px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .label-text {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-labellarge-font-family, 'Roboto');
+  font-weight: var(--m-3-labellarge-font-weight, 500);
+  font-size: var(--m-3-labellarge-font-size, 14px);
+  letter-spacing: var(--m-3-labellarge-letter-spacing, 0.1px);
+  line-height: var(--m-3-labellarge-line-height, 1.429);
+  color: var(--grays-gray, #8E8E93);
+}
+.light-on-color-blue .container-6 {
+  border-radius: 0 100px 100px 0;
+  border: 1px solid #79747E;
+  background: #E8DEF8;
+  display: flex;
+  padding: 9px 0;
+  width: 108px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.light-on-color-blue .go-back {
+  opacity: 0.8;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(196, 181, 253, 0.6);
+  display: flex;
+  align-self: flex-start;
+  padding: 3px 0;
+  width: 108px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 438px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.light-on-color-blue .polygon-1 {
+  filter: blur(4px);
+  margin: 10px 35px 0 0;
+  width: 48px;
+  height: 194px;
+}
+.light-on-color-blue .knob {
+  box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.04), 0px 3px 8px 0px rgba(0, 0, 0, 0.15), 0px 3px 1px 0px rgba(0, 0, 0, 0.06);
+  border-radius: 100px;
+  background: #FFFFFF;
+  width: 27px;
+  height: 27px;
+}
+.light-on-color-blue .toggle {
+  opacity: 0.5;
+  border-radius: 100px;
+  background: rgba(168, 85, 247, 0.85);
+  margin: 143px 15px 0 0;
+  display: flex;
+  padding: 17px 2px;
+  width: 101px;
+  height: 61px;
+  box-sizing: border-box;
+}
+.light-on-color-blue .polygon-4 {
+  filter: blur(4px);
+  margin-bottom: 10px;
+  width: 48px;
+  height: 194px;
+}
+.light-on-color-blue .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 247px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.light-on-color-blue .polygon-2 {
+  filter: blur(4px);
+  position: absolute;
+  left: 121px;
+  top: 0px;
+  width: 48px;
+  height: 194px;
+}
+.light-on-color-blue .polygon-3 {
+  filter: blur(4px);
+  position: absolute;
+  top: 0px;
+  right: 149px;
+  width: 48px;
+  height: 194px;
+}
+.light-on-color-blue .container-4 {
+  border-radius: 134px;
+  background: url('assets/images/LightBg1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 22px;
+  top: 87px;
+  right: 18px;
+  display: flex;
+  padding: 10px 25px 20px 0;
+  box-sizing: border-box;
+}
+.light-on-color-blue {
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 88px;
+  box-sizing: border-box;
+}
